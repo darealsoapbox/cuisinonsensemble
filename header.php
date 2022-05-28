@@ -33,6 +33,7 @@
                     </a>
                     <a href="/">Accueil</a>
                     <a href="/recettes.php">Recettes</a>
+                    <a href="/proposer-recette.php">Proposez votre recette</a>
                     <a href="/contact.php">Contact</a>
                 </div>
             </nav>

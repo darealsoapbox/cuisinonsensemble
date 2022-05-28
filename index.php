@@ -3,7 +3,7 @@
 <main class="container">
     <section class="row">
         <div class="col-lg-6 col-md-6 col-sm-12">
-            <h2 class="titre">Recettes</h2>
+            <h2 class="titre text-center">Recettes</h2>
             <ul>
                 <li>
                     <a href="recettes.php">Toutes les recettes</a>
@@ -21,7 +21,8 @@
         </div>
 
         <div class="col-lg-6 col-md-6 col-sm-12">
-            <h2 class="titre">Ajoutez votre recette</h2>
+            <h2 class="titre text-center">Proposez votre recette</h2>
+            <a href="/proposer-recette.php">Proposez votre recette ici</a>
         </div>
     </section>
 </main>
