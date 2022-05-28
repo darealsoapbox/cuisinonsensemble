@@ -1,8 +1,8 @@
 <?php include_once('header.php'); ?>
 
-<main>
-    <section>
-        <div class="bloc_1_colonne_gauche">
+<main class="container">
+    <section class="row">
+        <div class="col-lg-6 col-md-6 col-sm-12">
             <h2 class="titre">Recettes</h2>
             <p>
                 <a href="recettes.php">Toutes les recettes</a>
@@ -18,7 +18,7 @@
             </p>
         </div>
 
-        <div class="bloc_1_colonne_droite">
+        <div class="col-lg-6 col-md-6 col-sm-12">
             <h2 class="titre">Ajoutez votre recette</h2>
         </div>
     </section>
