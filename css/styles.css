@@ -9,11 +9,13 @@
     text-align: center;
 }
 .bloc-1 .menu li a {
+    background-color: #1a8d74;
     color: #FFFFFF;
     display: block;
     font-size: 1.2em;
     font-weight: bold;
+    margin: 0 auto;
     padding: 10px 20px;
     text-decoration: none;
-    background-color: #1a8d74;
+    width: 80%;
 }
