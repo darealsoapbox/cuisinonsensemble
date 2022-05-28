@@ -11,8 +11,6 @@
                 $("#photo_cuisine").attr("src","/images/entree.jpg");
             } else if($("#bouton_plats:hover").length != 0) {
                 $("#photo_cuisine").attr("src","/images/plat.jpg");
-            } else {
-                $("#photo_cuisine").attr("src","/images/cuisine.jpg");
             }
         });
         
