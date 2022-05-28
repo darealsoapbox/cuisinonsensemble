@@ -21,7 +21,7 @@
                         </li>
                     </ul>
                 </div>
-                <div class="col-lg-6 col-md-6 .d-sm-none .d-md-block">
+                <div class="col-lg-6 col-md-6 d-sm-none d-md-block">
                     <img src="">
                 </div>
             </div>
