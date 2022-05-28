@@ -22,7 +22,7 @@
                     </ul>
                 </div>
                 <div class="col-lg-6 col-md-6 d-sm-none d-md-block">
-                    <img src="">
+                    <img src="/images/logo.svg">
                 </div>
             </div>
         </div>
