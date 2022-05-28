@@ -1,6 +1,6 @@
 <?php include_once('header.php'); ?>
 
-<main class="container bg-white">
+<main class="container">
     <section class="bloc-1 d-grid">
         <div class="recettes p-2">
             <h2 class="titre text-center">Recettes</h2>

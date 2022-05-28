@@ -23,9 +23,9 @@
 
     </head>
 
-    <body class="bg-light">
+    <body>
         <header>
-            <nav class="navbar bg-light">
+            <nav class="navbar">
                 <div class="container">
                     <a href="/" class="navbar-brand">
                         <img class="logo" src="images/logo.svg" width="30" height="30" alt="Logo Cuisinons ensemble">
