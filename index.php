@@ -1,12 +1,12 @@
 <?php include_once('header.php'); ?>
 
 <main class="container bg-white">
-    <section class="d-grid">
-        <div class="p-2">
+    <section class="bloc-1 d-grid">
+        <div class="recettes p-2">
             <h2 class="titre text-center">Recettes</h2>
             <div class="d-flex">
                 <div class="col-lg-6 col-md-6 col-sm-12 d-block">
-                    <ul>
+                    <ul class="menu">
                         <li>
                             <a href="recettes.php">Toutes les recettes</a>
                         </li>
@@ -22,7 +22,7 @@
                     </ul>
                 </div>
                 <div class="d-none d-md-block col-lg-6 col-md-6">
-                    <img src="/images/logo.svg" width="400" height="400">
+                    <img src="/images/logo.svg" width="100%" height="100%">
                 </div>
             </div>
         </div>

@@ -1,0 +1,8 @@
+.bloc-1 .recette {
+    background-color: #3c8320;
+}
+.bloc-1 .recette .menu {
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 0;
+}
