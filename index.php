@@ -1,4 +1,4 @@
-<?php incluce_once('header.php'); ?>
+<?php //incluce_once('header.php'); ?>
 
 <main>
     <section>
@@ -24,4 +24,4 @@
     </section>
 </main>
 
-<?php incluce_once('footer.php'); ?>
+<?php //incluce_once('footer.php'); ?>
