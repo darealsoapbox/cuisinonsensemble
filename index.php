@@ -5,7 +5,7 @@
         <div class="p-2">
             <h2 class="titre text-center">Recettes</h2>
             <div class="d-flex">
-                <div class="col-lg-6 col-md-6 col-sm-12">
+                <div class="d-block">
                     <ul>
                         <li>
                             <a href="recettes.php">Toutes les recettes</a>
@@ -21,7 +21,7 @@
                         </li>
                     </ul>
                 </div>
-                <div class="col-lg-6 col-md-6 d-sm-none d-md-block">
+                <div class="d-sm-none d-md-block">
                     <img src="/images/logo.svg">
                 </div>
             </div>
