@@ -25,10 +25,14 @@
 
     <body>
         <header>
-            <img class="logo" src="images/logo.svg" alt="Logo Cuisinons ensemble">
-            <nav>
-                <a href="/">Accueil</a>
-                <a href="/recettes.php">Recettes</a>
-                <a href="/contact.php">Contact</a>
+            <nav class="navbar navbar-expand-lg">
+                <div class="container-fluid">
+                    <a href="/" class="navbar-brand">
+                        <img class="logo" src="images/logo.svg" width="30" height="30" alt="Logo Cuisinons ensemble">
+                    </a>
+                    <a href="/">Accueil</a>
+                    <a href="/recettes.php">Recettes</a>
+                    <a href="/contact.php">Contact</a>
+                </div>
             </nav>
         </header>
