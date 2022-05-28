@@ -1,5 +1,20 @@
 ( function( $ ) {
     $(document).ready(function (){
+        $(document).mousemove(function(){
+            if($("#bouton_toutes_les_recettes:hover").length != 0){
+                $("#photo_cuisine").attr("src","/images/cuisine.jpg");
+            } elseif($("#bouton_boissons:hover").length != 0) {
+                    $("#photo_cuisine").attr("src","/images/boisson.jpg");
+            } elseif($("#bouton_desserts:hover").length != 0) {
+                    $("#photo_cuisine").attr("src","/images/dessert.jpg");
+            } elseif($("#bouton_entrees:hover").length != 0) {
+                $("#photo_cuisine").attr("src","/images/entree.jpg");
+            } elseif($("#bouton_plats:hover").length != 0) {
+                $("#photo_cuisine").attr("src","/images/plat.jpg");
+            }
+        });
+        
+        /*
         // recettes (défaut)
         var recettesIsHovered = $('#bouton_toutes_les_recettes').is(":hover"); // returns true or false
         console.log(recettesIsHovered);
@@ -27,5 +42,6 @@
         if( platsIsHovered == true ) {
             $("#photo_cuisine").attr("src","/images/plat.jpg");
         }
+        */
     });
 } )( jQuery );
