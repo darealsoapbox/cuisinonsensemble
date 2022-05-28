@@ -21,7 +21,7 @@
                         </li>
                     </ul>
                 </div>
-                <div class="d-sm-none d-md-block">
+                <div class="d-xs-none d-md-block">
                     <img src="/images/logo.svg">
                 </div>
             </div>
