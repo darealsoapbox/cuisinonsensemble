@@ -29,7 +29,9 @@
                 </div>
             </div>
         </div>
+    </section>
 
+    <section class="bloc-2 d-grid">
         <div class="p-2">
             <h2 class="titre text-center">Proposez votre recette</h2>
             <ol>

@@ -1,8 +1,7 @@
-body {
+.bloc-1 {
     background-color: #cad2c5 !important;
     color: #2f3e46 !important;
 }
-
 .bloc-1 .recettes .menu {
     display: flex;
     flex-direction: column;
@@ -27,4 +26,9 @@ body {
 .bloc-1 .menu li a:hover {
     background-color: #84a98c;
     color: #354f52;
+}
+
+.bloc-2 {
+    background-color: #2f3e46 !important;
+    color: #cad2c5 !important;
 }
