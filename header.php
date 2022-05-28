@@ -12,7 +12,7 @@
         <meta property="og:type" content="website">
         <meta property="og:url" content="https://cuisinonsensemble.herokuapp.com/">
         <meta property="og:description" content="Projet personnel permettant de mettre en application mes compétences.">
-        <meta property="og:image" content="image.png">
+        <meta property="og:image" content="logo.svg">
 
         <link rel="icon" href="/favicon.ico">
         <link rel="icon" href="/favicon.svg" type="image/svg+xml">
@@ -25,6 +25,7 @@
 
     <body>
         <header>
+            <img class="logo" src="images/logo.svg" alt="Logo Cuisinons ensemble">
             <nav>
                 <a href="/">Accueil</a>
                 <a href="/recettes.php">Recettes</a>
