@@ -1,9 +1,8 @@
 <?php include_once('header.php'); ?>
 
-<main class="container">
+<main>
     <section class="bloc-1 d-grid">
-        <div class="recettes p-2">
-            <h2 class="titre text-center">Recettes</h2>
+        <div class="recettes container p-2">
             <div class="d-flex">
                 <div class="col-lg-6 col-md-6 col-sm-12 d-block">
                     <ul class="menu">
@@ -32,7 +31,7 @@
     </section>
 
     <section class="bloc-2 d-grid">
-        <div class="p-2">
+        <div class="proposer-une-recette container p-2">
             <h2 class="titre text-center">Proposez votre recette</h2>
             <ol>
                 <li>Remplissez la liste des ingrédients</li>
