@@ -24,3 +24,7 @@ body {
     text-decoration: none;
     width: 80%;
 }
+.bloc-1 .menu li a:hover {
+    background-color: #84a98c;
+    color: #354f52;
+}
