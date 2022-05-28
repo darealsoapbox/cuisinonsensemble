@@ -5,21 +5,25 @@
         <div class="p-2">
             <h2 class="titre text-center">Recettes</h2>
             <div class="d-flex">
-                <ul>
-                    <li>
-                        <a href="recettes.php">Toutes les recettes</a>
-                    </li>
-                    <li>
-                        <a href="recettes.php?categorie=entree">Entrées</a>
-                    </li>
-                    <li href="recettes.php?categorie=plat">
-                        <a href="recettes.php?categorie=plat">Plats</a>
-                    </li>
-                    <li href="recettes.php?categorie=dessert">
-                        <a href="recettes.php?categorie=dessert">Desserts</a>
-                    </li>
-                </ul>
-                <img src="">
+                <div class="col-lg-6 col-md-6 col-md-12">
+                    <ul>
+                        <li>
+                            <a href="recettes.php">Toutes les recettes</a>
+                        </li>
+                        <li>
+                            <a href="recettes.php?categorie=entree">Entrées</a>
+                        </li>
+                        <li href="recettes.php?categorie=plat">
+                            <a href="recettes.php?categorie=plat">Plats</a>
+                        </li>
+                        <li href="recettes.php?categorie=dessert">
+                            <a href="recettes.php?categorie=dessert">Desserts</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-lg-6 col-md-6 .d-sm-none .d-md-block">
+                    <img src="">
+                </div>
             </div>
         </div>
 
