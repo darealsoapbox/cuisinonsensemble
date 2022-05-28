@@ -23,7 +23,7 @@
 
     </head>
 
-    <body>
+    <body class="bg-light">
         <header>
             <nav class="navbar bg-light">
                 <div class="container">
