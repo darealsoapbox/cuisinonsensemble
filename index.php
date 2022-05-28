@@ -11,13 +11,16 @@
                             <a href="recettes.php">Toutes les recettes</a>
                         </li>
                         <li>
-                            <a href="recettes.php?categorie=entree">Entrées</a>
+                            <a href="recettes.php?categorie=entrees">Entrées</a>
                         </li>
-                        <li href="recettes.php?categorie=plat">
-                            <a href="recettes.php?categorie=plat">Plats</a>
+                        <li>
+                            <a href="recettes.php?categorie=plats">Plats</a>
                         </li>
-                        <li href="recettes.php?categorie=dessert">
-                            <a href="recettes.php?categorie=dessert">Desserts</a>
+                        <li>
+                            <a href="recettes.php?categorie=desserts">Desserts</a>
+                        </li>
+                        <li>
+                            <a href="recettes.php?categorie=boissons">Boissons</a>
                         </li>
                     </ul>
                 </div>
