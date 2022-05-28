@@ -3,14 +3,16 @@
         $(document).mousemove(function(){
             if($("#bouton_toutes_les_recettes:hover").length != 0){
                 $("#photo_cuisine").attr("src","/images/cuisine.jpg");
-            } elseif($("#bouton_boissons:hover").length != 0) {
+            } else if($("#bouton_boissons:hover").length != 0) {
                     $("#photo_cuisine").attr("src","/images/boisson.jpg");
-            } elseif($("#bouton_desserts:hover").length != 0) {
+            } else if($("#bouton_desserts:hover").length != 0) {
                     $("#photo_cuisine").attr("src","/images/dessert.jpg");
-            } elseif($("#bouton_entrees:hover").length != 0) {
+            } else if($("#bouton_entrees:hover").length != 0) {
                 $("#photo_cuisine").attr("src","/images/entree.jpg");
-            } elseif($("#bouton_plats:hover").length != 0) {
+            } else if($("#bouton_plats:hover").length != 0) {
                 $("#photo_cuisine").attr("src","/images/plat.jpg");
+            } else {
+                $("#photo_cuisine").attr("src","/images/cuisine.jpg");
             }
         });
         
