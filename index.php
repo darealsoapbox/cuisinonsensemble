@@ -8,24 +8,24 @@
                 <div class="col-lg-6 col-md-6 col-sm-12 d-block">
                     <ul class="menu">
                         <li>
-                            <a href="recettes.php">Toutes les recettes</a>
+                            <a id="bouton_toutes_les_recettes" href="recettes.php">Toutes les recettes</a>
                         </li>
                         <li>
-                            <a href="recettes.php?categorie=entrees">Entrées</a>
+                            <a id="bouton_entrees" href="recettes.php?categorie=entrees">Entrées</a>
                         </li>
                         <li>
-                            <a href="recettes.php?categorie=plats">Plats</a>
+                            <a id="bouton_plats" href="recettes.php?categorie=plats">Plats</a>
                         </li>
                         <li>
-                            <a href="recettes.php?categorie=desserts">Desserts</a>
+                            <a id="bouton_desserts" href="recettes.php?categorie=desserts">Desserts</a>
                         </li>
                         <li>
-                            <a href="recettes.php?categorie=boissons">Boissons</a>
+                            <a id="bouton_boissons" href="recettes.php?categorie=boissons">Boissons</a>
                         </li>
                     </ul>
                 </div>
                 <div class="d-none d-md-block col-lg-6 col-md-6">
-                    <img src="/images/logo.svg" width="100%" height="100%">
+                    <img id="photo_cuisine" src="/images/cuisine.jpg" width="100%" height="100%">
                 </div>
             </div>
         </div>
