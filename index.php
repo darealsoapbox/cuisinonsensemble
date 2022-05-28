@@ -5,10 +5,18 @@
         <div class="col-lg-6 col-md-6 col-sm-12">
             <h2 class="titre">Recettes</h2>
             <ul>
-                <li href="recettes.php">Toutes les recettes</li>
-                <li href="recettes.php?categorie=entree">Entrées</li>
-                <li href="recettes.php?categorie=plat">Plats</li>
-                <li href="recettes.php?categorie=dessert">Desserts</li>
+                <li>
+                    <a href="recettes.php">Toutes les recettes</a>
+                </li>
+                <li>
+                    <a href="recettes.php?categorie=entree">Entrées</a>
+                </li>
+                <li href="recettes.php?categorie=plat">
+                    <a href="recettes.php?categorie=plat">Plats</a>
+                </li>
+                <li href="recettes.php?categorie=dessert">
+                    <a href="recettes.php?categorie=dessert">Desserts</a>
+                </li>
             </ul>
         </div>
 
