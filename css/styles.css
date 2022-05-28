@@ -2,6 +2,10 @@ body {
     background-color: #cad2c5 !important;
     color: #2f3e46 !important;
 }
+header nav {
+    position: absolute;
+    width: 100%;
+}
 header nav a .navbar-brand {
     color: #2f3e46 !important;
     text-transform: uppercase;
@@ -10,6 +14,10 @@ header nav a:not(.navbar-brand) {
     color: #2f3e46;
     text-decoration: none;
     text-transform: uppercase;
+}
+.bloc-1 {
+    height: 100vh;
+    padding-top: 100px;
 }
 .bloc-1 .recettes .menu {
     display: flex;
